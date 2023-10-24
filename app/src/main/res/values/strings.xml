@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SessionProjet</string>
+    <string name="app_description">Votre hub pour gérer efficacement les livraisons de magazines et journaux.
+        Suivez les routes, gérez les abonnements et optimisez vos opérations en un seul endroit.
+    </string>
+    <string name="menuPrincipal">Menu Principal</string>
+    <string name="next">Suivant</string>
+    <string name="routes">Routes</string>
+    <string name="abonnements">Abonnements</string>
+    <string name="livreurs">Livreurs</string>
+    <string name="list">Lister</string>
+    <string name="exit">Quitter</string>
+</resources>
